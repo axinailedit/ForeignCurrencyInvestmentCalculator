@@ -1,3 +1,8 @@
-CurrencyA = input(float("请输入汇率：/Enter the exchange rate"）
-                        
+ExchangeRateNow = input(float("请输入汇率：/Enter the exchange rate"）
+InvestmentAmountLocal = 
+ForeignInterest = input(float("外币定存汇率："))   
+LocalInterest = input(float("本币定存汇率："))
+ExchangeRateFuture = float()
 print(CurrencyA)
+
+
