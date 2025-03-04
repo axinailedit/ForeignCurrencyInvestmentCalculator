@@ -1,0 +1,3 @@
+CurrencyA = input(float("请输入汇率：/Enter the exchange rate"）
+                        
+print(CurrencyA)
